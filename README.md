@@ -14,6 +14,7 @@ This 4-step process is how anybody would contribute to any project in GitHub.
 
 ### Now for some crazy stuff
 Now that you know how to contribute to a GitHub project, here are a few things you could try out -
+
 1. Add a HTML page about yourself.
 2. Create a new issue in this repository.
 3. Try to contribute to another branch other than the master branch.
